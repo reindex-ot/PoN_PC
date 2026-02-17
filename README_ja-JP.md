@@ -1,5 +1,5 @@
 # PoN PC
-このリポジトリは、*ロックマンエグゼ ファントム オブ ネットワーク*の PoN PC port のリリースと Issue Tracker をホストしています。
+このリポジトリは、*ロックマンエグゼ ファントム オブ ネットワーク*の PoN PC 移植版のリリースと Issue Tracker をホストしています。
 
 [![Release](https://img.shields.io/github/v/release/StraDaMa/PoN_PC)](https://github.com/StraDaMa/PoN_PC/releases/latest)
 
