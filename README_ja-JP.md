@@ -5,7 +5,7 @@
 
 [![Release](https://img.shields.io/github/v/release/StraDaMa/PoN_PC)](https://github.com/StraDaMa/PoN_PC/releases/latest)
 
-PoN PC は以前にモバイル専用でリリースされていたゲーム、*ロックマンエグゼ ファントム オブ ネットワーク*の Windows PC のネイティブ移植版です。この移植版は、エミュレーターを必要とせずにゲームをプレイ可能です。<br>
+PoN PC は以前にモバイル専用でリリースされていたゲーム、*ロックマンエグゼ ファントム オブ ネットワーク*の Windows PC 用ネイティブ移植版です。この移植版は、エミュレーターを必要とせずにゲームをプレイ可能です。<br>
 ただし、移植版の動作には元となるゲームのアセットが必要です。
 
 ## 機能
