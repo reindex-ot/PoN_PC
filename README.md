@@ -1,4 +1,6 @@
 # PoN PC
+**English** | [日本語](./README_ja-JP.md)
+
 This repository hosts releases and the issue tracker for the PoN PC port of *Rockman EXE Phantom of Network.*
 
 [![Release](https://img.shields.io/github/v/release/StraDaMa/PoN_PC)](https://github.com/StraDaMa/PoN_PC/releases/latest)
