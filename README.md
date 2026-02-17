@@ -1,5 +1,5 @@
 # PoN PC
-**English** | [日本語](./README_ja-JP.md)
+**Language:** **English** | [日本語](./README_ja-JP.md)
 
 This repository hosts releases and the issue tracker for the PoN PC port of *Rockman EXE Phantom of Network.*
 
